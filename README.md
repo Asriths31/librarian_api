@@ -149,6 +149,5 @@ All book list endpoints (`GET /api/books` and `GET /api/books/available`) suppor
 
 ---
 
-## Importing Postman Collection
 
 

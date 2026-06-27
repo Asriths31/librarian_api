@@ -151,9 +151,4 @@ All book list endpoints (`GET /api/books` and `GET /api/books/available`) suppor
 
 ## Importing Postman Collection
 
-Import `sample_requests.json` directly into Postman:
-1. Click **Import** inside Postman.
-2. Select the `sample_requests.json` file.
-3. Configure the Collection Variables (under collection setting variables):
-   * `baseUrl`: `http://localhost:2000/api`
-   * `token` and `refreshToken` will be automatically saved into your environment variables when you call **Login User** or **Refresh Token**.
+
